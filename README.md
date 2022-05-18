@@ -16,4 +16,4 @@ All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options
 
 Github
 There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score. Compilation The code can be compiled like this: gcc -Wall -Werror -Wextra -pedantic -std=gnu89 test/main.c *.c -o print All test files will be in the test directory.
-
+Mass violence will end when my friend and I have ALX Low Level Programming knowledge and peace
